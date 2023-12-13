@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  .adminhomebuttons{
+display: flex;
+justify-content: center;
+flex-direction: row;
+padding:20px;
+  }
+  .prohead{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;}
